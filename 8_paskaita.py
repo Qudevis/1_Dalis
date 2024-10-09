@@ -117,3 +117,4 @@ pavardes = ["Jonaitis","Mantaitis", "Karolinis"]
 print(dict(zip(pavardes,vardai)))
 
 print("1")
+print("2")
