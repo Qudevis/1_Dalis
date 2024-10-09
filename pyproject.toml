@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "1-dalis"
+version = "0.1.0"
+description = ""
+authors = ["Justas Kvederis <justas@computech.ie>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

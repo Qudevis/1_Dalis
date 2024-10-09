@@ -1,0 +1,2 @@
+def testine():
+    print("testuoju")
